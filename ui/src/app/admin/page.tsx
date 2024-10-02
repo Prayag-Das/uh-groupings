@@ -57,7 +57,7 @@ const Admin = async () => {
                 </Tabs>
             </div>
         </main>
-    );
+    )
 }
- 
+
 export default Admin;
